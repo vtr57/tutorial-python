@@ -51,8 +51,26 @@ Notebooks Python para ensinar Python com exemplos e exercícios.
 * list comprehension
 * exercícios
 
-## [aula07.0](https://github.com/vtr57/tutorial-python/blob/main/aula07.ipynb)
+## [aula07](https://github.com/vtr57/tutorial-python/blob/main/aula07.ipynb)
 * dicionários
   * for em dicionários
   * unpack de dicionários
+* exercícios
+
+## [aula08.0](https://github.com/vtr57/tutorial-python/blob/main/aula08.0ipynb)
+* funções
+  * criando uma função
+  * diferentes tipos
+* exercícios
+
+## [aula08.1](https://github.com/vtr57/tutorial-python/blob/main/aula08.1ipynb)
+* escopo de variáveis
+  * local
+  * global
+* exercícios
+
+## [aula08.2](https://github.com/vtr57/tutorial-python/blob/main/aula08.2.ipynb)
+* função lambda
+  * sintaxe
+  * com if e else
 * exercícios
