@@ -55,3 +55,4 @@ Notebooks Python para ensinar Python com exemplos e exercícios.
 * dicionários
   * for em dicionários
   * unpack de dicionários
+* exercícios
