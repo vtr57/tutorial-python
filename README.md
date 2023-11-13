@@ -74,3 +74,11 @@ Notebooks Python para ensinar Python com exemplos e exercícios.
   * sintaxe
   * com if e else
 * exercícios
+
+----------------------------------------------------------------------------------
+
+# Referências
+* [1] [w3schools](https://www.w3schools.com/python/default.asp)
+* [2] [python.org](https://docs.python.org/pt-br/3/index.html)
+* [3] [codeproject](https://reference.codeproject.com/python3)
+* [4] [geekforgeef](https://www.geeksforgeeks.org/python-programming-language/?ref=shm_outind)
