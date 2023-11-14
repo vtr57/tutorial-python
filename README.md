@@ -78,6 +78,18 @@ Notebooks Python para ensinar Python com exemplos e exercícios.
 ## [aula08.3](https://github.com/vtr57/tutorial-python/blob/main/aula08.3.ipynb)
 * exemplo de um bom uso de funções
 
+## [aula09.0](https://github.com/vtr57/tutorial-python/blob/main/aula09.0.ipynb)
+* POO - programação orientada a objetos
+  * classes
+  * instanciação
+* exercícios
+
+## [aula09.1](https://github.com/vtr57/tutorial-python/blob/main/aula09.1.ipynb)
+* herança
+  * classe pai
+  * classes filhas
+* exercícios
+
 ----------------------------------------------------------------------------------
 
 # Referências
