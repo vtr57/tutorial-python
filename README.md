@@ -1,6 +1,6 @@
 # tutorial-python
 Notebooks para ensinar Python para alunos do Ensino Médio com exemplos e exercícios.
-Os contéudos desses notebooks são: algoritmos, estrutura de dados e orientação a objetos.
+Os contéudos desses notebooks são: algoritmos, estrutura de dados e orientação a objetos. [Referencias](https://github.com/vtr57/tutorial-python#refer%C3%AAncias)
 
 ## [aula01](https://github.com/vtr57/tutorial-python/blob/main/aula01.ipynb)
 * variáveis
