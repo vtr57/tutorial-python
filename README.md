@@ -75,6 +75,9 @@ Notebooks Python para ensinar Python com exemplos e exercícios.
   * com if e else
 * exercícios
 
+## [aula08.3](https://github.com/vtr57/tutorial-python/blob/main/aula08.3.ipynb)
+* exemplo de um bom uso de funções
+
 ----------------------------------------------------------------------------------
 
 # Referências
